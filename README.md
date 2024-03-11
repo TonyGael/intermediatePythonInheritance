@@ -54,6 +54,8 @@ En este ejemplo, `Animal` es la clase padre que tiene un método `hacer_sonido()
 
 La herencia permite la reutilización de código y facilita la organización y la estructura del código en proyectos más grandes. Además, promueve la coherencia y la consistencia al compartir funcionalidades comunes entre clases relacionadas.
 
+# Intermediate Python #2: Operator Overloading
+
 El "operator overloading" (sobrecarga de operadores) en Python se refiere a la capacidad de una clase para cambiar el comportamiento de los operadores incorporados, como la suma (+), la resta (-), la multiplicación (*), etc. Esto significa que puedes definir el comportamiento de estos operadores para objetos de tu propia clase. Es una característica de la programación orientada a objetos que proporciona una forma intuitiva de trabajar con tipos de datos personalizados.
 
 Para implementar la sobrecarga de operadores en Python, puedes utilizar métodos especiales llamados métodos de operador o métodos mágicos. Estos métodos tienen nombres que comienzan y terminan con doble guion bajo (`__`). Algunos de los métodos de operador comunes son:
