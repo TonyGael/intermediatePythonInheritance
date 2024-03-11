@@ -155,7 +155,7 @@ print(f'Yearly Salary: {worker_1.calc_yearly_salary()}')
 
 Este código demuestra cómo se puede utilizar la herencia y la sobrecarga de métodos en Python para construir clases derivadas que extiendan el comportamiento de las clases base. La salida del código mostrará la información del trabajador, incluido su salario anual.
 
-# Script operator_overwriting.py explicado:
+# Script operator_overloading.py explicado:
 
 Este código define una clase llamada `Vector` que representa un vector bidimensional en términos de sus componentes `x` e `y`. La clase sobrecarga los operadores de suma (`__add__`) y resta (`__sub__`) para permitir la adición y sustracción de instancias de la clase `Vector`. Aquí está el código con explicaciones paso a paso:
 
